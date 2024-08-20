@@ -4,7 +4,7 @@
 
 ---
 
-### 🧰 Tech Stacks Summary
+# 🧰 Tech Stacks Summary
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />    
@@ -49,6 +49,7 @@
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)<br/>
 
 **Database:**
+<br/>
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /><br/>
           
