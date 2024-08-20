@@ -24,6 +24,8 @@
           
 <br />
 
+---
+
 # 💻 Development Language
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 **Basic Programming Language:**
@@ -55,6 +57,8 @@
           
 ![MySQl](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 <img  align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /><br/>
+
+---
           
 ## 📚 Future Learning
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
