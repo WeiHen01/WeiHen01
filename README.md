@@ -30,13 +30,11 @@
 ---
 
 ## IDE:
-<br/>
+
 [![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 [![VisualStudio](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
 [![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
-<br/>
-
 
 ---
 
@@ -96,6 +94,11 @@
      <h3>Stats</h3>
 
 ![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiHen01&show_icons=true&theme=gruvbox)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WeiHen01&show_icons=true&locale=en&layout=compact" alt="aravindajogi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aravindajogi&show_icons=true&locale=en" alt="aravindajogi" /></p>
+
 
 </div>
 
