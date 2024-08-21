@@ -9,7 +9,6 @@
 ---
 
 # 🧰 Tech Stacks Summary
-
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />    
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />        
@@ -27,6 +26,17 @@
 
           
 <br />
+
+---
+
+## IDE:
+<br/>
+[![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![VisualStudio](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
+[![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+<br/>
+
 
 ---
 
@@ -72,8 +82,10 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 <img align="left" alt="Dot-net" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" /><br/>
 
+[![NuxtJS](https://skillicons.dev/icons?i=nuxtjs)](https://skillicons.dev)
 <img align="left" alt="NuxtJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" /></br>
 
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /><br/>
 
           
