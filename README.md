@@ -29,16 +29,18 @@
 
 ---
 
-## IDE:
+## 💻 IDE and Tools:
 
 [![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 [![VisualStudio](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
 [![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
-
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![PremierePro](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
+[![Photoshop](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
 ---
 
-## 💻 Development Language
+## 🌐 Development Language
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 **Basic Programming Language:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -71,34 +73,46 @@
 ---
           
 ## 📚 Future Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /><br/>
+
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /><br/>
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /><br/>
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /><br/>
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 <img align="left" alt="Dot-net" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" /><br/>
 
-[![NuxtJS](https://skillicons.dev/icons?i=nuxtjs)](https://skillicons.dev)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<br/>        
+
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 <img align="left" alt="NuxtJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" /></br>
 
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+![Firebase](https://img.shields.io/badge/Firebase-FF9100?style=for-the-badge&logo=Firebase&logoColor=white)
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /><br/>
 
-          
-          
+![DJango](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+                    
 ---
 
 <div align="center">
-     <h3>Stats</h3>
+     <h2>Stats</h3>
+     <p><img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5&theme=algolia" /> </p>
+     <p><img align="right" src= "https://github-readme-stats.vercel.app/api?username=WeiHen01&show_icons=true&theme=algolia" /> </p>
 
-![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiHen01&show_icons=true&theme=gruvbox)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=algolia) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WeiHen01&show_icons=true&locale=en&layout=compact" alt="aravindajogi" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WeiHen01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="weihen" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aravindajogi&show_icons=true&locale=en" alt="aravindajogi" /></p>
+<!-- ![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiHen01&show_icons=true&theme=algolia) -->
 
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=WeiHen01&show_icons=true&locale=en&theme=gradient&bg_color=DEG,0008ff,007afc&icon_color=white&" alt="weihen" /></p> -->
 
 </div>
 
