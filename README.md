@@ -2,8 +2,8 @@
      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&pause=1000&color=2720F7&center=true&vCenter=true&width=435&lines=Hello+Everyone!;I'm+Edgar+%F0%9F%8C%A9" />
 </h1>
 
-<h2 align="center">
-     Malaysian University Student currently still learning programming
+<h3 align="center">
+     👨‍💻 A Malaysian University Student who is currently working actively in programming ~ 👨‍💻
 </h2>
 
 ---
