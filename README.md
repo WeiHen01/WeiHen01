@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-     **`Malaysian University Student currently still learning programming`**
+     Malaysian University Student currently still learning programming
 </h1>
 
 ---
@@ -30,7 +30,7 @@
 
 ---
 
-# 💻 Development Language
+## 💻 Development Language
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 **Basic Programming Language:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -81,7 +81,7 @@
 ---
 
 <div align="center">
-## 📊 Stats
+     <h3>Stats</h3>
 
 ![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiHen01&show_icons=true&theme=gruvbox)
 
