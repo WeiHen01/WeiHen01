@@ -32,13 +32,13 @@
 
 ## 💻 IDE and Tools:
 
-[![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![VisualStudio](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
-[![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-[![PremierePro](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
-[![Photoshop](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
+![Eclipse](https://skillicons.dev/icons?i=eclipse)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![VisualStudio](https://skillicons.dev/icons?i=visualstudio)
+![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
+![Postman](https://skillicons.dev/icons?i=postman)
+![PremierePro](https://skillicons.dev/icons?i=pr)
+![Photoshop](https://skillicons.dev/icons?i=ps)
 
 ---
 
