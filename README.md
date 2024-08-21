@@ -1,4 +1,6 @@
-# 🌩 Edgar Ng
+<h1 align="center">
+     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&pause=1000&color=2720F7&center=true&vCenter=true&width=435&lines=Hello+Everyone!;I'm+Edgar+%F0%9F%8C%A9" />
+</h1>
 
 **`Malaysian University Student currently still learning programming`**
 
@@ -51,12 +53,12 @@
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)<br/>
 
 **Database:**
-<br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /><br/>
-          
 ![MySQl](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-<img  align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /><br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<br/>
+          
+<img  align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /><br/>
 
 ---
           
