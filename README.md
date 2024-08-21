@@ -2,7 +2,9 @@
      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&pause=1000&color=2720F7&center=true&vCenter=true&width=435&lines=Hello+Everyone!;I'm+Edgar+%F0%9F%8C%A9" />
 </h1>
 
-**`Malaysian University Student currently still learning programming`**
+<h1 align="center">
+     **`Malaysian University Student currently still learning programming`**
+</h1>
 
 ---
 
@@ -78,10 +80,12 @@
           
 ---
 
+<div align="center">
 ## 📊 Stats
 
 ![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiHen01&show_icons=true&theme=gruvbox)
 
+</div>
 
 ---
 <div align="center">
