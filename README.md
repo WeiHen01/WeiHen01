@@ -117,7 +117,7 @@
 ---
 
 <div align="center">
-     <h2>📈 Statitics</h2>
+     <h2>📈 Statistics</h2>
      <p><img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5&theme=algolia" /> </p>
      <p><img align="right" src= "https://github-readme-stats.vercel.app/api?username=WeiHen01&show_icons=true&theme=algolia" /> </p>
 
