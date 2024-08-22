@@ -1,3 +1,4 @@
+
 <h1 align="center">
      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&pause=1000&color=2720F7&center=true&vCenter=true&width=435&lines=Hello+Everyone!;I'm+Edgar+%F0%9F%8C%A9" />
 </h1>
@@ -67,7 +68,6 @@
 ![ExpressJS](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)<br/>
 
 **🛢️ Database:**
-
 ![MySQl](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)<br/>
