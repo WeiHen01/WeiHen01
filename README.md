@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-     👨‍💻 A Malaysian University Student who is currently working actively in programming ~ 👨‍💻
+     👨‍💻 A Malaysian Fresh Graudate of Computer Science in Software Development~ 👨‍💻
 </h2>
 
 ---
