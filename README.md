@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-     👨‍💻 A Malaysian Fresh Graudate of Computer Science in Software Development~ 👨‍💻
+     👨‍💻 A Malaysian Fresh Graduate of Computer Science in Software Development~ 👨‍💻
 </h2>
 
 ---
