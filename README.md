@@ -139,8 +139,12 @@
 
 <div align="center">
      <h2>📈 Statistics</h2>
-     <p><img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5&theme=algolia" /> </p>
-     <p><img align="right" src= "https://github-readme-stats.vercel.app/api?username=WeiHen01&show_icons=true&theme=algolia" /> </p>
+     <a href="https://github.com/Rodrigo-Sarmento">
+       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WeiHen01&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WeiHen01&layout=compact&langs_count=8&theme=radical"/>
+     </a>
+     <!--<p><img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=WeiHen01&langs_count=5&theme=algolia" /> </p>
+     <p><img align="right" src= "https://github-readme-stats.vercel.app/api?username=WeiHen01&show_icons=true&theme=algolia" /> </p>-->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=algolia) -->
 
